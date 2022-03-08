@@ -1,0 +1,11 @@
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\bin\Debug\netcoreapp2.1\parcial.deps.json
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\bin\Debug\netcoreapp2.1\parcial.runtimeconfig.json
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\bin\Debug\netcoreapp2.1\parcial.runtimeconfig.dev.json
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\bin\Debug\netcoreapp2.1\parcial.dll
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\bin\Debug\netcoreapp2.1\parcial.pdb
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.csprojAssemblyReference.cache
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.csproj.CoreCompileInputs.cache
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.AssemblyInfoInputs.cache
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.AssemblyInfo.cs
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.dll
+C:\Users\SALA DE SISTEMAS\source\repos\parcial\parcial\obj\Debug\netcoreapp2.1\parcial.pdb
